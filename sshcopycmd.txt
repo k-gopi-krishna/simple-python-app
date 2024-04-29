@@ -1,0 +1,8 @@
+sudo scp -i /home/user/downloads/keypair.pem /home/user/downloads/keypair.pem ec2-user@ip:/home/ec2-user
+
+
+ex:
+
+sudo scp -i /home/gopi/Downloads/forvpc.pem /home/gopi/Downloads/forvpc.pem ec2-user@35.154.153.78:/home/ec2-user
+
+free=38.1
